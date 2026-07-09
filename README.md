@@ -10,7 +10,7 @@
 
 🚀 Learning React.js & Backend Development
 
-🔗 GitHub: saurabh010904-lab  
+🔗 GitHub:https://github.com/saurabh010904-lab 
 🔗 LinkedIn: www.linkedin.com/in/saurabh-prajapat
 
 ## 🌐 Socials:

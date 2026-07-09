@@ -11,8 +11,7 @@
 🚀 Learning React.js & Backend Development
 
 🔗 GitHub: saurabh010904-lab  
-🔗 LinkedIn: saurabh-prajapat
-
+🔗 LinkedIn: www.linkedin.com/in/saurabh-prajapat
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/saurabh-prajapat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saurabh010904@gmail.com) 

@@ -1,5 +1,17 @@
-# 💫 About Me:
-👋 Hi, I'm Saurabh Raj<br><br>🎓 Computer Science Engineering Student  <br>💻 Aspiring Full Stack Developer  <br><br>🛠️ Languages:<br>C, Java, JavaScript<br><br>🌐 Frontend:<br>HTML5, CSS3, Bootstrap, JavaScript<br><br>⚙️ Backend:<br>Node.js, Express.js<br><br>🗄️ Database:<br>MongoDB, MySQL<br><br>🔧 Tools & Technologies:<br>Git, GitHub, VS Code, Canva<br><br>🚀 Currently learning:<br>React.js and Backend Development
+# 👋 Hi, I'm Saurabh Raj
+
+🎓 CSE Student | 💻 Aspiring Full Stack Developer
+
+**Languages:** C • Java • JavaScript  
+**Frontend:** HTML5 • CSS3 • Bootstrap  
+**Backend:** Node.js • Express.js  
+**Database:** MongoDB • MySQL  
+**Tools:** Git • GitHub • VS Code • Canva  
+
+🚀 Learning React.js & Backend Development
+
+🔗 GitHub: saurabh010904-lab  
+🔗 LinkedIn: saurabh-prajapat
 
 
 ## 🌐 Socials:
